@@ -33,6 +33,7 @@ which avrdude
 
 ![image](https://user-images.githubusercontent.com/6380390/112827082-7dab5d80-9053-11eb-9d5b-6decff96024d.png)
 
+
 **Enter the follow command to flash the firmware to the Wanhao D6
 
 root@octopi:/home/pi# avrdude -c usbasp -p m2560 -u -U flash:w:firmware.hex
