@@ -1,5 +1,5 @@
 # Wanhao-D6-Marlin-2.0.x
-This is a repository for a build of Marlin 2.0.x for the Wanhao D6+ (Bondtech &amp; Microswiss)
+This is a repository for my Marlin 2.0.x config files for the Wanhao D6+ (Bondtech &amp; Microswiss)
 
 Wanhao D6 BMG Upgrade
 https://www.bondtech.se/product/wanhao-d6-kit/
